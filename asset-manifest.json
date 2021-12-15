@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.faafae7b.chunk.css",
-    "main.js": "/static/js/main.6859bd0b.chunk.js",
-    "main.js.map": "/static/js/main.6859bd0b.chunk.js.map",
+    "main.css": "/static/css/main.a0a887b7.chunk.css",
+    "main.js": "/static/js/main.f4804b0c.chunk.js",
+    "main.js.map": "/static/js/main.f4804b0c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.79331d97.js",
     "runtime-main.js.map": "/static/js/runtime-main.79331d97.js.map",
     "static/css/2.5001c201.chunk.css": "/static/css/2.5001c201.chunk.css",
-    "static/js/2.ed1be51a.chunk.js": "/static/js/2.ed1be51a.chunk.js",
-    "static/js/2.ed1be51a.chunk.js.map": "/static/js/2.ed1be51a.chunk.js.map",
+    "static/js/2.92a8740c.chunk.js": "/static/js/2.92a8740c.chunk.js",
+    "static/js/2.92a8740c.chunk.js.map": "/static/js/2.92a8740c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.5001c201.chunk.css.map": "/static/css/2.5001c201.chunk.css.map",
-    "static/css/main.faafae7b.chunk.css.map": "/static/css/main.faafae7b.chunk.css.map",
-    "static/js/2.ed1be51a.chunk.js.LICENSE.txt": "/static/js/2.ed1be51a.chunk.js.LICENSE.txt",
-    "static/media/Bicycle.22c2c869.png": "/static/media/Bicycle.22c2c869.png",
-    "static/media/Fashion.b13860ce.png": "/static/media/Fashion.b13860ce.png",
-    "static/media/Sofa.9b9baec5.png": "/static/media/Sofa.9b9baec5.png",
-    "static/media/Toys.01d67d3a.png": "/static/media/Toys.01d67d3a.png",
+    "static/css/main.a0a887b7.chunk.css.map": "/static/css/main.a0a887b7.chunk.css.map",
+    "static/js/2.92a8740c.chunk.js.LICENSE.txt": "/static/js/2.92a8740c.chunk.js.LICENSE.txt",
+    "static/media/Bicycle.1e70db75.png": "/static/media/Bicycle.1e70db75.png",
+    "static/media/Fashion.9ee4907b.png": "/static/media/Fashion.9ee4907b.png",
+    "static/media/Sofa.28b4a4d8.png": "/static/media/Sofa.28b4a4d8.png",
+    "static/media/Toys.e0d1a039.png": "/static/media/Toys.e0d1a039.png",
     "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.38c4d249.woff",
-    "static/media/iPhoneHomeBanner.2735658b.png": "/static/media/iPhoneHomeBanner.2735658b.png"
+    "static/media/iPhoneHomeBanner.2a535c94.png": "/static/media/iPhoneHomeBanner.2a535c94.png"
   },
   "entrypoints": [
     "static/js/runtime-main.79331d97.js",
     "static/css/2.5001c201.chunk.css",
-    "static/js/2.ed1be51a.chunk.js",
-    "static/css/main.faafae7b.chunk.css",
-    "static/js/main.6859bd0b.chunk.js"
+    "static/js/2.92a8740c.chunk.js",
+    "static/css/main.a0a887b7.chunk.css",
+    "static/js/main.f4804b0c.chunk.js"
   ]
 }
